@@ -1,1 +1,2 @@
 # Adix-Security-Tool
+Adix is an easy-to-use Linux tool built with Python to help check password security and analyze system logs. It can create custom wordlists using personal details or base words to show how predictable passwords can be. It also checks any password's strength, giving it a score from 0 to 10 along with helpful tips to make it stronger. Finally, its log analyzer scans security logs for repeated failed logins or suspicious activity and saves a clear report file automatically.
